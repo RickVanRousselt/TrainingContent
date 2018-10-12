@@ -1,5 +1,4 @@
 # Fundamentals of Microsoft Teams
-----------
 
 ## Lab - Fundamentals of Microsoft Teams
 
@@ -13,19 +12,30 @@ In this lab, you will walk through building, packaging, and deploying your Micro
 - [Build a basic Microsoft Teams Bot](./Demos/02%20-%20teams-bot1)
 - [Build a Microsoft Teams Tab](./Demos/03%20-%20teams-app1)
 
+## Watch the Module
+
+This module has been recorded and is available in the Office Development YouTube channel: [Fundamentals of Microsoft Teams](https://www.youtube.com/watch?v=mj5f0KUYNPo)
+
 ## Contributors
 
 |        Roles         |                        Author(s)                        |
 | -------------------- | ------------------------------------------------------- |
-| Lab Manuals / Videos | Paul Schaeflein (Microsoft MVP) @paulschaeflein         |
 | Review / Formatting  | Andrew Connell (Microsoft MVP, Voitanos) @andrewconnell |
-| Sponsor / Support    | Mike Ammerlaan (Microsfot) @mammerla                    |
+| Lab Manuals / Videos | Paul Schaeflein (Microsoft MVP) @paulschaeflein         |
+| Sponsor / Support    | Mike Ammerlaan (Microsoft) @mammerla                    |
+|                      | Nishanth Nadarajah (Microsoft)                          |
 
 ## Version history
 
-| Version |      Date       |    Comments     |
-| ------- | --------------- | --------------- |
-| 1.0     | October 6, 2017 | Initial release |
+| Version |       Date        |                   Comments                   |
+| ------- | ----------------- | -------------------------------------------- |
+| 1.3     | August 15, 2018   | 2019Q1 content refresh                       |
+| 1.2     | June 26, 2018     | 2018Q4 content refresh & style guide updates |
+| 1.1     | February 25, 2018 | Code Review and minor corrections            |
+| 1.0     | October 6, 2017   | Initial release                              |
 
 ## Disclaimer
+
 **THIS CODE IS PROVIDED *AS IS* WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.**
+
+<img src="https://telemetry.sharepointpnp.com/TrainingContent/Teams/04-fundamentals-of-microsoft-teams" />

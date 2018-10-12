@@ -174,3 +174,9 @@ FakesAssemblies/
 
 # MacOS files
 **.DS_Store
+
+# Excluding unwanted files
+Teams/03 Bots/Completed Projects/Bot Application/.vs/
+.vscode/
+
+ConnectorActionableMsgs/01 Build a basic Connector/Lab Files/\.vs/
