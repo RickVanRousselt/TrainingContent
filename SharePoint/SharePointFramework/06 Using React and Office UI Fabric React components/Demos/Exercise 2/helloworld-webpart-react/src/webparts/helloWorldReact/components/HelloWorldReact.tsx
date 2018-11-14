@@ -11,7 +11,7 @@ export default class HelloWorldReact extends React.Component<IHelloWorldReactPro
     this.state = { 
       showPanel: false
     }; 
-  }
+  } 
 
   public render(): JSX.Element {
     return (
