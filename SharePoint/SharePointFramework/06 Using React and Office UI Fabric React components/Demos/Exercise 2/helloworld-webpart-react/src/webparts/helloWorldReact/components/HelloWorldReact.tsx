@@ -8,7 +8,7 @@ export default class HelloWorldReact extends React.Component<IHelloWorldReactPro
 
   constructor() {
     super();
-    this.state = {
+    this.state = { 
       showPanel: false
     }; 
   }
