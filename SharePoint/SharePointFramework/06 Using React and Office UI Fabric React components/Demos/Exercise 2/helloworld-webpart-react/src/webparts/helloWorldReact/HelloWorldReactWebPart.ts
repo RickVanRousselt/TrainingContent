@@ -3,7 +3,7 @@ import * as ReactDom from 'react-dom';
 import { Version } from '@microsoft/sp-core-library';
 import {
   BaseClientSideWebPart,
-  IPropertyPaneConfiguration,
+  IPropertyPaneConfiguration, 
   PropertyPaneTextField
 } from '@microsoft/sp-webpart-base';
 
