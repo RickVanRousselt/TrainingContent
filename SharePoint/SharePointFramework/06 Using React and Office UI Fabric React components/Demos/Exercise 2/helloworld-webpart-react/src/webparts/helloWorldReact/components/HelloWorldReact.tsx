@@ -10,7 +10,7 @@ export default class HelloWorldReact extends React.Component<IHelloWorldReactPro
     super();
     this.state = {
       showPanel: false
-    };
+    }; 
   }
 
   public render(): JSX.Element {
